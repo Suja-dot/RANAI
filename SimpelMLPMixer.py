@@ -1,4 +1,6 @@
 #MLP-Mixed Model python
+#0.12412762641906738
+#torch.Size([1, 16, 17, 8])
 import torch
 import time
 import torch.nn as nn
