@@ -1,4 +1,6 @@
 #Resnet Model python
+#0.009064674377441406
+#torch.Size([1, 16, 102, 64])
 import torch
 import time
 import torch.nn as nn
